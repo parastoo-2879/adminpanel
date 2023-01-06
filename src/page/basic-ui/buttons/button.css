@@ -1,0 +1,23 @@
+#buttons{
+  min-height: 130vh;
+}
+#buttons>section{
+  min-height: 120vh;
+}
+.parent{
+  border-radius: 10px;
+  background-color: #191c24;
+  padding: 10px;
+  margin: 15px 0;
+}
+.part>button{
+  width: 150px;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+}
+#rounded button{
+  border-radius: 30px;
+}

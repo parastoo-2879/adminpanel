@@ -1,0 +1,6 @@
+#dropdowns{
+  min-height: 130vh;
+}
+#dropdowns>section{
+  min-height: 120vh;
+}

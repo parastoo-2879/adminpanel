@@ -1,0 +1,29 @@
+
+@media screen and (max-width: 576px) {
+ 
+}
+@media screen and (min-width: 577px) {
+  /* .mainMenu,#mobile-menu{
+    width: 30% !important;
+    border: 2px solid green !important;
+  }
+  #wrapper{
+    width: 70% !important;
+    border: 2px solid rgb(128, 0, 105) !important;
+  } */
+}
+@media screen and (min-width: 768px) {
+  
+}
+@media screen and (min-width: 992px) {
+  /* .mainMenu,#mobile-menu{
+    width: 30% !important;
+  }
+  #wrapper{
+    width: 70% !important;
+  } */
+}
+
+@media screen and (min-width: 1200px) {
+ 
+}/*# sourceMappingURL=local.css.map */

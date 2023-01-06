@@ -1,0 +1,16 @@
+#Heading{
+  min-height: 130vh;
+}
+#Heading>section{
+  min-height: 120vh;
+}
+#Heading>section>div{
+height: fit-content !important;
+}
+
+#Heading section li{
+  border-bottom: 1px solid #0000007a;
+  min-height: 70px;
+  display: flex;
+  align-items: center;
+}

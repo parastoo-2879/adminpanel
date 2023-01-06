@@ -1,0 +1,40 @@
+#iconparent{
+  min-height: 120vh;
+}
+
+#icons{
+  min-height: 50vh;
+  margin-top: -120px;
+}
+
+@media screen and (max-width: 576px) {
+ #icons{
+  margin-top: 0;
+ }
+}
+@media screen and (min-width: 577px) {
+  #icons{
+    margin-top: 0;
+   }
+}
+@media screen and (min-width: 768px) {
+  #icons{
+    margin-top: 0px;
+   }
+}
+@media screen and (min-width: 992px) {
+  #icons{
+    margin-top: 0px;
+   }
+}
+
+@media screen and (min-width: 1200px) {
+  #icons{
+    margin-top: -150px;
+   }
+}
+@media screen and (min-width: 1300px) {
+  #icons{
+    margin-top: -300px;
+   }
+}/*# sourceMappingURL=local.css.map */
